@@ -33,6 +33,13 @@ go run cmd/main.go
 ```
 ---
 
+
+![8b0478f3-3058-4f0e-a9c8-756bf58eaf17](https://github.com/hemanG-G/GO-OTP-Microservice/assets/89329624/a8973079-20cf-43d2-820e-e44c22db8f6f)
+
+
+![ed1c4e09-4727-4fd6-b40c-2f6b10e6c847](https://github.com/hemanG-G/GO-OTP-Microservice/assets/89329624/85c1f623-a9c7-4fec-b207-f1f4b12ffcec)
+
+
 # API Documentation
 ---
 ## Send OTP
